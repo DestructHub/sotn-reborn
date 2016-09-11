@@ -43,9 +43,9 @@ In development yet. How about you help us make this delicious reborn? Feel free 
 
 ## Authors
 
-* [Manoel Machado](http://github.com/ryukinix)
-* [Pedro Henrique Lara Campos](http://github.com/PedroHLC)
+* [Manoel Machado](https://github.com/ryukinix)
+* [Pedro Henrique Lara Campos](https://github.com/PedroHLC)
 
 
 ## License
-SotN Reborn is licensed under BSD (see [LICENSE](/DestructHub/sotn-reborn/blob/bleed/LICENSE)) and has no affiliation with Konami who developed the original game. All trademark terms are the property of their respective owners.
+SotN Reborn is licensed under BSD (see [LICENSE](https://github.com/DestructHub/sotn-reborn/blob/bleed/LICENSE)) and has no affiliation with Konami who developed the original game. All trademark terms are the property of their respective owners.

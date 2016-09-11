@@ -1,8 +1,8 @@
 [package]
-name = "random-shit"
-version = "0.1.0"
-authors = ["Manoel Vilela <manoel_vilela@engineer.com>"
-	   "Pedro Lara Campos" <?>]
+name = "sotn-reborn"
+version = "0.0.0"
+authors = ["Manoel Vilela <manoel_vilela@engineer.com>",
+	   "Pedro H. Lara Campos" <root@pedrohlc.com>]
 
 [dependencies]
 piston_window = "0.44.0"
