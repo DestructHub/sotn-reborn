@@ -14,32 +14,34 @@ In development yet. How about you help us make this delicious reborn? Feel free 
 
 ## Roadmap
 
-- [ ] Decodifiers
-	- [ ] Tilesets
-	- [ ] Zones
-	- [ ] Sprites
-	- [ ] Audio
-	- [ ] Entities
-	- [ ] Bosses
-- [ ] Physics
-	- [ ] Collision
-	- [ ] Platform basics
-	- [ ] Particle Effect
-	- [ ] Attacks and Recoil
-	- [ ] Spells
-	- [ ] Polygon Box (Saving)
 - [ ] Artificial Intelligence
 	- [ ] Enemies 
 	- [ ] Familliars
-- [ ] Docs
-	- [ ] Decodifiers
-	- [ ] Editors
-	- [ ] Physics
-	- [ ] AI
-- [ ] Editors
+- [ ] Original Game Decodifiers
+	- [ ] Audio
+	- [ ] Bosses
+	- [ ] Entities
+	- [ ] Sprites
+	- [ ] Tilesets
 	- [ ] Zones
+- [ ] Documentation
+	- [ ] New Assets
+	- [ ] Modding
+		- [ ] Basic editing
+		- [ ] Scripts
+		- [ ] Packing and distributing
+	- [ ] Original Game Decodifiers
+- [ ] Editors
 	- [ ] Entities + Bosses
 	- [ ] Scripts
+	- [ ] Zones
+- [ ] Physics
+	- [ ] Attacks and Recoil
+	- [ ] Collision
+	- [ ] Particle Effect
+	- [ ] Platform basics
+	- [ ] Polygon Box (Saving)
+	- [ ] Spells
 
 ## Authors
 

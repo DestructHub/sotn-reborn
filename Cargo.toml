@@ -2,7 +2,7 @@
 name = "sotn-reborn"
 version = "0.0.0"
 authors = ["Manoel Vilela <manoel_vilela@engineer.com>",
-	   "Pedro H. Lara Campos" <root@pedrohlc.com>]
+	   "Pedro H. Lara Campos <root@pedrohlc.com>"]
 
 [dependencies]
 piston_window = "0.44.0"
