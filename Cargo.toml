@@ -1,0 +1,8 @@
+[package]
+name = "random-shit"
+version = "0.1.0"
+authors = ["Manoel Vilela <manoel_vilela@engineer.com>"
+	   "Pedro Lara Campos" <?>]
+
+[dependencies]
+piston_window = "0.44.0"
