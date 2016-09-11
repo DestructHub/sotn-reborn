@@ -1,32 +1,29 @@
-# Abstract
+# SotN Reborn
+## Abstract
 [![HitCount](https://hitt.herokuapp.com/ryukinix/decorating.svg)](https://github.com/ryukinix/decorating)
 
-![logo](pics/logo.gif)
+The project aims to build a [free](https://www.gnu.org/philosophy/free-sw.html), cross-platform, moddable, alternative engine for [*Castlevania: Symphony of the Night*](https://en.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night), with a high fidelity experience compared to its original.
+
+This project does not distribut and cannot be distributed with the original game assets. To play with these assets one must have a legally obtained backup of one of the original game releases.
 
 
-The project aims to build a new fan game based on the original assets of Castlevania Symphony of The Night using Rust and the original iso.
+## How to get and have fun
 
-# How to get and have fun
-
-![cool-huh?](pics/menu.jpg)
-
-In development yet. How about you help us make this delicious reborn?
+In development yet. How about you help us make this delicious reborn? Feel free to contact us (see [#Authors](#authors)).
 
 
-# Roadmap
-
-![dracula](pics/dracula.png)
-
+## Roadmap
 
 - [ ] Decodifiers
-	- [ ] Map
-	- [ ] Audio
-	- [ ] Tiles
-- [ ] Editors
-	- [ ] Map
+	- [ ] Tilesets
+	- [ ] Zones
 	- [ ] Sprites
+	- [ ] Audio
+	- [ ] Entities
+	- [ ] Bosses
 - [ ] Physics
 	- [ ] Collision
+	- [ ] Platform basics
 	- [ ] Particle Effect
 	- [ ] Attacks and Recoil
 	- [ ] Spells
@@ -39,13 +36,16 @@ In development yet. How about you help us make this delicious reborn?
 	- [ ] Editors
 	- [ ] Physics
 	- [ ] AI
+- [ ] Editors
+	- [ ] Zones
+	- [ ] Entities + Bosses
+	- [ ] Scripts
 
-# Authors
-
-![alucard](pics/alucard.jpg)
+## Authors
 
 * [Manoel Machado](http://github.com/ryukinix)
-* [Pedro Lara Campos](http://github.com/pedrohlc)
+* [Pedro Henrique Lara Campos](http://github.com/PedroHLC)
 
-# License
-BSD
+
+## License
+SotN Reborn is licensed under BSD (see [LICENSE](/DestructHub/sotn-reborn/blob/bleed/LICENSE)) and has no affiliation with Konami who developed the original game. All trademark terms are the property of their respective owners.
